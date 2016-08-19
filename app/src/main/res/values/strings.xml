@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YahooWeatherAndroidHomeQuiz</string>
+    <string name="homePage_actionbarName">Weather Now</string>
+    <string name="menuLabel">Update Weather Forecast!</string>
+    <string name="weatherDescription">Weather Description</string>
+    <string name="error_message">No network connectivity, so no weather updates can be displayed!</string>
+    <string name="success_message">Weather in cities shown below!</string>
+</resources>
